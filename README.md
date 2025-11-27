@@ -7,7 +7,7 @@ Ce projet a été développé dans le cadre du cours d'introduction à la progra
 - Calculer l'inverse des images PBM, PGM et PPM
 - Afficher les contours d'une image noir et blanc (filtre de Sobel (SANS NORMALISATION) et Double Seuillage),
 - Compresser une image à l'aide de l'algorithme du SuperPixel.
-- Des outils permettant de passer du format JPG au format PGM/PBM/PPM et vice-versa
+
 
 ----
 
@@ -21,4 +21,3 @@ This C++ library allows, for example, to:
 - Compute the negative of PBM, PGM, and PPM images,
 -Detect edges in a black-and-white image (Sobel filter WITHOUT NORMALIZATION and Double Thresholding),
 -Compress an image using the SuperPixel algorithm,
--Use tools to convert between JPG and PGM/PBM/PPM formats in both directions.
