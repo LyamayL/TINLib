@@ -11,7 +11,7 @@ Ce projet a été développé dans le cadre du cours d'introduction à la progra
 
 #### Exemples :
 Image de Bruce Willis en noir et blanc (format PBM) :
-![Bruce Willis en noir et blanc]("images/")
+![Bruce Willis en noir et blanc]("images/Willis_gris.png")
 
 Image Inverse de Bruce Willis : 
 ![Bruce Willis en blanc et noir]("images/")
