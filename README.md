@@ -9,12 +9,17 @@ Ce projet a été développé dans le cadre du cours d'introduction à la progra
 - Compresser une image à l'aide de l'algorithme du SuperPixel.
 - Des outils permettant de passer du format JPG au format PGM/PBM/PPM et vice-versa
 
-#### Exemples :
-Image de Bruce Willis en noir et blanc (format PBM) :
-![Bruce Willis en noir et blanc]("images/Willis_gris.png")
+----
 
-Image Inverse de Bruce Willis : 
-![Bruce Willis en blanc et noir]("images/")
+# TINLib – Presentation
+### 🇬🇧 — Image Processing Library (C++)
+#### Introduction to Imperative Programming Project (L1 2025–2026, Université Paris-Saclay, Professor: Nicolas Thiéry)
 
-Contours de l'image affiché (algorithme de double seuillage) :
-![Bruce Willis en noir et blanc avec contours]("images/")
+This project was developed as part of the Introduction to Imperative Programming course (info111). The goal is to create a C++ library for processing images in PBM (black and white), PGM (grayscale), and PPM (color) formats. The module was created in collaboration with a classmate during work sessions at the Orsay University Library.
+This C++ library allows, for example, to:
+
+- Convert PBM, PGM, and PPM images into 2-dimensional arrays to make processing easier,
+- Compute the negative of PBM, PGM, and PPM images,
+-Detect edges in a black-and-white image (Sobel filter WITHOUT NORMALIZATION and Double Thresholding),
+-Compress an image using the SuperPixel algorithm,
+-Use tools to convert between JPG and PGM/PBM/PPM formats in both directions.
