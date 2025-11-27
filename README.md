@@ -11,7 +11,6 @@ Ce projet a été développé dans le cadre du cours d'introduction à la progra
 
 ----
 
-# TINLib – Presentation
 ### 🇬🇧 — Image Processing Library (C++)
 #### Introduction to Imperative Programming Project (L1 2025–2026, Université Paris-Saclay, Professor: Nicolas Thiéry)
 
